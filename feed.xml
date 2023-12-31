@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Miskanova</title>
+    <link href="https://miskanova.uk/feed.xml" rel="self" />
+    <link href="https://miskanova.uk" />
+    <updated>1970-01-01T09:00:00+09:00</updated>
+    <author>
+        <name>Etone Sabasappugawa</name>
+    </author>
+    <id>https://miskanova.uk</id>
+
+</feed>

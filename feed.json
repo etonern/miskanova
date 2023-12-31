@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Miskanova",
+    "description": "",
+    "home_page_url": "https://miskanova.uk",
+    "feed_url": "https://miskanova.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Etone Sabasappugawa"
+    },
+    "items": [
+    ]
+}
