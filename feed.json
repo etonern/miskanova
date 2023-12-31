@@ -23,6 +23,20 @@
             ],
             "date_published": "2023-12-31T20:55:32+09:00",
             "date_modified": "2023-12-31T20:57:19+09:00"
+        },
+        {
+            "id": "https://miskanova.uk/akemasiteomedetou/",
+            "url": "https://miskanova.uk/akemasiteomedetou/",
+            "title": "あけまして、おめでとう。",
+            "summary": "日本と韓国とヤクートの皆様、新年あけましておめでとうございます。今年も良い一年になりますように。",
+            "content_html": "<p>日本と韓国とヤクートの皆様、新年あけましておめでとうございます。今年も良い一年になりますように。</p>",
+            "author": {
+                "name": "Marina Sakura"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-01T00:01:00+09:00",
+            "date_modified": "2023-12-31T23:20:48+09:00"
         }
     ]
 }

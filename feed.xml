@@ -3,7 +3,7 @@
     <title>Miskanova</title>
     <link href="https://miskanova.uk/feed.xml" rel="self" />
     <link href="https://miskanova.uk" />
-    <updated>2023-12-31T20:57:19+09:00</updated>
+    <updated>2023-12-31T23:20:48+09:00</updated>
     <author>
         <name>Marina Sakura</name>
     </author>
@@ -44,6 +44,26 @@
   <p>
     では、良いお年を！
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>あけまして、おめでとう。</title>
+        <author>
+            <name>Marina Sakura</name>
+        </author>
+        <link href="https://miskanova.uk/akemasiteomedetou/"/>
+        <id>https://miskanova.uk/akemasiteomedetou/</id>
+
+        <updated>2023-12-31T23:20:48+09:00</updated>
+            <summary>
+                <![CDATA[
+                    日本と韓国とヤクートの皆様、新年あけましておめでとうございます。今年も良い一年になりますように。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>日本と韓国とヤクートの皆様、新年あけましておめでとうございます。今年も良い一年になりますように。</p>
             ]]>
         </content>
     </entry>
