@@ -9,5 +9,20 @@
         "name": "Etone Sabasappugawa"
     },
     "items": [
+        {
+            "id": "https://miskanova.uk/hello-fediverse/",
+            "url": "https://miskanova.uk/hello-fediverse/",
+            "title": "Hello, Fediverse!!",
+            "summary": "はじめまして。このサイトはFediverse(Mastodon, Misskey, Akkoma等)の新しいニュースサイトです。 Fediverseの情報は英語のものが多かったり、一つの投稿で大きくプロジェクトが動いたりとなかなか収集が難しいかと思います。 そんな散らばった情報をわかりやすく伝えていけたらなと思っております。 では、良いお年を！",
+            "content_html": "\n  <p>\n    はじめまして。このサイトはFediverse(Mastodon, Misskey, Akkoma等)の新しいニュースサイトです。\n  </p>\n\n  <p>\n    Fediverseの情報は英語のものが多かったり、一つの投稿で大きくプロジェクトが動いたりとなかなか収集が難しいかと思います。\n  </p>\n\n  <p>\n    そんな散らばった情報をわかりやすく伝えていけたらなと思っております。\n  </p>\n\n  <p>\n    では、良いお年を！\n  </p>",
+            "image": "https://miskanova.uk/media/posts/1/Chiba.png",
+            "author": {
+                "name": "Etone Sabasappugawa"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-31T20:55:32+09:00",
+            "date_modified": "2023-12-31T20:57:19+09:00"
+        }
     ]
 }
