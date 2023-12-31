@@ -6,7 +6,7 @@
     "feed_url": "https://miskanova.uk/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Etone Sabasappugawa"
+        "name": "Marina Sakura"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "\n  <p>\n    はじめまして。このサイトはFediverse(Mastodon, Misskey, Akkoma等)の新しいニュースサイトです。\n  </p>\n\n  <p>\n    Fediverseの情報は英語のものが多かったり、一つの投稿で大きくプロジェクトが動いたりとなかなか収集が難しいかと思います。\n  </p>\n\n  <p>\n    そんな散らばった情報をわかりやすく伝えていけたらなと思っております。\n  </p>\n\n  <p>\n    では、良いお年を！\n  </p>",
             "image": "https://miskanova.uk/media/posts/1/Chiba.png",
             "author": {
-                "name": "Etone Sabasappugawa"
+                "name": "Marina Sakura"
             },
             "tags": [
             ],
